@@ -7,7 +7,7 @@ Ich nutze es, um Codex zu testen und den Umgang mit GitHub zu lernen.
 
 ## Inhalte
 
-- `main.py`: Ein einfaches Python-Skript, das „Hallo Welt“ ausgibt
+- `main.py`: Ein einfaches Python-Skript, das Zahlen erraten lässt
 - `README.md`: Diese Projektbeschreibung
 
 ## Ziele
